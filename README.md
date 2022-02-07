@@ -1,5 +1,5 @@
 <p align="center"><img src="branding/emblem.svg" alt="Open Source Point of Sale Logo" width="auto" height="200"></p>
-<h3 align="center">Open Source Point of Sale</h3>
+<h3 align="center">Sale Web</h3>
 
 <p align="center">
   <a href="#-introduction">Introduction</a> · <a href="#-live-demo">Demo</a> · <a href="#-installation">Installation</a> · 
@@ -16,7 +16,7 @@
 
 ## 👋 Introduction
 
-Open Source Point of Sale is a web-based point of sale system. The application is written in PHP, it uses MySQL (or MariaDB) as data storage back-end and has a simple but intuitive user interface.
+Sale Web is a web-based point of sale system. The application is written in PHP, it uses MySQL (or MariaDB) as data storage back-end and has a simple but intuitive user interface.
 
 The latest `3.x` version is a complete overhaul of the original software. It uses CodeIgniter 3 as a framework and is based on Bootstrap 3 using Bootswatch themes. Along with improved functionality and security.
 
@@ -72,7 +72,7 @@ For more information and recommendations on support hardware, like receipt print
 
 Everyone is more than welcome to help us improve this project. If you think you've got something to help us go forward, feel free to open a [pull request]().
 
-Want to help translate Open Source Point of Sale in your language? You can find [our Weblate here](https://translate.opensourcepos.org), sign up, and start translating. You can subscribe to different languages to receive a notification once a new string is added or needs updating. Have a look at our [guidelines](https://github.com/opensourcepos/opensourcepos/wiki/Adding-translations) below to help you get started.
+Want to help translate Sale Web in your language? You can find [our Weblate here](https://translate.opensourcepos.org), sign up, and start translating. You can subscribe to different languages to receive a notification once a new string is added or needs updating. Have a look at our [guidelines](https://github.com/opensourcepos/opensourcepos/wiki/Adding-translations) below to help you get started.
 
 Only with the help of the community, we can keep language translations up to date. Thanks!
 
@@ -115,7 +115,7 @@ If you choose to deploy OSPOS in the cloud, you can contribute to the project by
 
 ## 📄 License
 
-Open Source Point of Sale is licensed under MIT terms with an important addition:
+Sale Web is licensed under MIT terms with an important addition:
 
 The footer signature "© 2010 - _current year_ · opensourcepos.org · 3.x.x - _hash_" including the version, hash and link our website MUST BE RETAINED, MUST BE VISIBLE IN EVERY PAGE and CANNOT BE MODIFIED.
 
